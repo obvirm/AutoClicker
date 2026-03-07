@@ -1,4 +1,4 @@
-# Autoclicker (Antigravity Edition)
+# Autoclicker (Antigravity)
 
 ![Autoclicker Showcase](1.png)
 
