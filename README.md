@@ -1,8 +1,10 @@
 # Autoclicker (Antigravity Edition)
 
 ![Autoclicker Showcase](1.png)
-![Autoclicker Showcase](targets\1.png)
-![Autoclicker Showcase](targets\2.png)
+
+![Autoclicker Showcase](targets/1.png)
+
+![Autoclicker Showcase](targets/2.png)
 
 A high-performance, template-based automation tool built with Rust. This version is specifically optimized for **Antigravity** workflows, featuring background interaction and precise color-aware template detection.
 
