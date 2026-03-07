@@ -1,0 +1,19 @@
+[package]
+name = "autoclicker"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rdev = "0.5.3"
+image = "0.25"
+anyhow = "1.0"
+tokio = { version = "1", features = ["full"] }
+windows-sys = { version = "0.52", features = ["Win32_Foundation", "Win32_UI_WindowsAndMessaging", "Win32_Graphics_Gdi", "Win32_System_Threading", "Win32_Storage_FileSystem", "Win32_Graphics_Dwm", "Win32_UI_Controls"] }
+eframe = "0.29.1"
+egui = "0.29.1"
+rfd = "0.15"
+walkdir = "2.5"
+chrono = "0.4"
+rand = "0.8"
+xcap = "0.0.12"
+enigo = "0.2.0"
