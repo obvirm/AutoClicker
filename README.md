@@ -35,7 +35,7 @@ Designed to be truly cross-platform, this tool utilizes specialized libraries to
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/obvirm/AutoClicker.git
    cd Autoclicker
    ```
 2. Build the optimized binary:
